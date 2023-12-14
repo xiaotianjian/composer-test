@@ -1,0 +1,21 @@
+{
+    "name": "xiaoxiao/test",
+    "description": "xiaoxiao",
+    "type": "library",
+    "require": {
+        "php": "8.1.25"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xiaotianjian",
+            "email": "277541032@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
