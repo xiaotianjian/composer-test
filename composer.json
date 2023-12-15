@@ -17,5 +17,5 @@
             "email": "277541032@qq.com"
         }
     ],
-    "version":1.0.0
+    "minimum-stability": "1.0.0"
 }
